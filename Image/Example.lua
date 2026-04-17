@@ -1,4 +1,4 @@
-local load = loadstring(game:HttpGet("https://raw.githubusercontent.com/Whatttt23/Custom-Image/main/Source.lua"))()
+local load = loadstring(game:HttpGet("https://raw.githubusercontent.com/Whatttt23/Custom/main/Image/Source.lua"))()
 
 local img = load:Create({
     Image = "https://github.com/xxx/image.png",
